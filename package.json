@@ -1,0 +1,16 @@
+{
+  "name": "awsec2-cicd",
+  "version": "1.0.0",
+  "description": "This is the DevOps knowledge deployment to AWS EC2 using Docker and Clear usage implementation of CI/CD pipeline",
+  "license": "ISC",
+  "author": "ngollodev",
+  "type": "commonjs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
